@@ -30,7 +30,7 @@ Everything else should come with python3.x
 Start by running logReg.py, 
 ```
 python3 logReg.py
-'''
+```
 this will produce some printed output as well as some plots in the
 logRegOutput/ directory.
 All steps and why they have been done are commented in the code.
@@ -43,7 +43,7 @@ The code also contains many comments about the strategy.
 Run:
 ```
 python3 neuralNet.py
-'''
+```
 Also here, code will produce output and plots in
 neuralNetOutput/
 
