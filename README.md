@@ -48,6 +48,7 @@ python3 neuralNet.py
 ```
 Also here, code will produce printed output and plots in
 neuralNetOutput/
+
 By default, the code is configured to use pretrained weigths and not train the network again.
 This can be changed in the first few lines of code by setting "trainModel" to True.
 It will train by default for 50 epochs which takes only a couple of minutes.
