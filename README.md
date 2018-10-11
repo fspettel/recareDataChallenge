@@ -12,14 +12,14 @@ Just clone the repository and run the scripts after installing the prerequisites
 
 All code is written to be executed with python3
 There are a few things needed to run the code:
-Keras
-Tensorflow
-Pandas
-numpy
-sklearn
-imblearn
-statsmodels
-seaborn -> this is not urgent, only for producing one plot
+Keras  
+Tensorflow  
+Pandas  
+numpy  
+sklearn  
+imblearn  
+statsmodels  
+seaborn -> this is not urgent, only for producing one plot  
 
 Everything else should come with python3.x
 
