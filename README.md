@@ -6,7 +6,7 @@ There are two scripts different ways to predict the likelihood that a patient is
 
 ## Getting Started
 
-Just clone the repository and run the scripts after installing the prerequisites
+Just clone the repository and run the scripts after installing the prerequisites (if not yet installed)
 
 ### Prerequisites
 
